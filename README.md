@@ -5,7 +5,7 @@
 - 📫 How to reach mesylviaoye2@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am very fun to work with
-click this link to view my portfolio http://127.0.0.1:5500/index.html
+click this link to view my portfolio [http://127.0.0.1:5500/index.html](https://sylviaoyew.github.io/)
 
 <!---
 SylviaOyew/SylviaOyew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
